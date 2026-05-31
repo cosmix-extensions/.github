@@ -2,21 +2,21 @@
 
 **Community streaming extensions for the Cosmix app**
 
-[
+
 
 ![Platform](https://img.shields.io/badge/Platform-Cosmix-7c3aed?style=for-the-badge)
 
-](https://github.com/cosmix-app/cosmix)
-[
+
+
 
 ![License](https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge)
 
-](LICENSE)
-[
 
-![Template](https://img.shields.io/badge/Built%20With-CsxApi-blue?style=for-the-badge)
 
-](https://github.com/cosmix-app/cosmix-extension-template)
+
+![Built With](https://img.shields.io/badge/Built%20With-CsxApi-blue?style=for-the-badge)
+
+
 
 ---
 
@@ -54,7 +54,25 @@ Want your extension listed? Open a Pull Request with:
 
 ## ⚠️ Disclaimer
 
-> Cosmix and cosmix-extensions are not responsible for any third-party extensions outside this organization. Third-party extensions are built and maintained by independent developers. Installing extensions from unknown sources is entirely at your own risk. We do not review, verify, or endorse any extension that is not officially hosted under this organization. Any damage, data loss, or legal issue caused by third-party extensions is solely the responsibility of the user.
+Cosmix and the cosmix-extensions organization provide this platform solely as a community hub for open-source streaming extensions.
+
+**We are not responsible for:**
+- Any content accessed through third-party extensions
+- Extensions hosted outside this organization
+- Any damage, data loss, privacy breach, or legal issue caused by extensions from unknown sources
+- The accuracy, legality, or safety of any third-party extension
+
+**You must understand:**
+- Extensions are built and maintained by independent community developers
+- We do not review, audit, verify, or endorse any extension not officially hosted here
+- Installing extensions from outside this organization is entirely at your own risk
+- Cosmix does not host, stream, or distribute any media content itself
+- All content is sourced entirely by the extensions you choose to install
+
+**By using any extension, you agree that:**
+- You take full responsibility for what you install
+- Cosmix bears no liability for any consequences of using third-party extensions
+- If you are unsure about an extension, do not install it
 
 ---
 
