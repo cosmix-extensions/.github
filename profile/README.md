@@ -74,6 +74,12 @@ Cosmix and the cosmix-extensions organization provide this platform solely as a 
 - Cosmix bears no liability for any consequences of using third-party extensions
 - If you are unsure about an extension, do not install it
 
+## About Cosmix
+
+Cosmix is a free and open-source streaming app for Android, Android TV and Windows.
+
+🔗 [cosmix-app/cosmix](https://github.com/cosmix-app/cosmix)
+
 ---
 
 *GPL-3.0 © 2026 Cosmix Extensions*
