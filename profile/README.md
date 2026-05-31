@@ -1,4 +1,4 @@
-<div align="center">
+ align="center">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
   <rect width="600" height="120" fill="#0d1117"/>
